@@ -5,7 +5,7 @@ layout: default
 
 
 
-## [](#header-2)Header 2
+## [](#header-2)Weather App.
 
 > This is a blockquote following a header.
 >
@@ -13,11 +13,10 @@ layout: default
 
 
 
-### Small image
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg)
 
-### Small image
+
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
 
