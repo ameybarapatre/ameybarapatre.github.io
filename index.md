@@ -13,11 +13,11 @@ layout: default
 
 
 
-### Large image
+### Small image
 
 ![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss1.jpeg)
 
-### Large image
+### Small image
 
 ![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss2.jpeg)
 
