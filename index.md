@@ -15,10 +15,10 @@ layout: default
 
 ### Small image
 
-![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss1.jpeg)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg)
 
 ### Small image
 
-![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss2.jpeg)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
 
 
