@@ -15,6 +15,10 @@ layout: default
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss1.jpeg)
+
+### Large image
+
+![](https://github.com/ameybarapatre/ameybarapatre.github.io/blob/master/ss2.jpeg)
 
 
