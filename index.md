@@ -14,7 +14,7 @@ layout: default
 
 
 
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg)![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
+![](#im1)(https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg)![](#im2)(https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
 
 
 
