@@ -11,8 +11,8 @@ layout: default
 > This one comes as a default and I have stuck with it. Its pretty much standard stuff.
 > It shows the temperature according to the day and hour of the day. The background changes according to the weather and
 > time of the day. It can also show average high and low temperatures,humidity , precipitation and wind speed.
-> Being part of the windows eco system it has a neat live tile on the start screen that shows the current weather and daily forecast.
->
+> Being a part of the windows eco system it has a neat live tile on the start screen that shows the current weather and daily forecast.
+> 
 > P.S: It also shows the moon phase.
 
 
