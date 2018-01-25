@@ -4,9 +4,6 @@ layout: default
 
 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)WEEK 2 Class Work
 Data is utility usage of a family , some background information:
@@ -15,7 +12,7 @@ Data is utility usage of a family , some background information:
 * Has air conditioning
 * Number of people in the home doesn't change after mid 2000
 
-## [](#header-2) Group Members: Sai Phaltankar, Shoaib Khan, Amey Barapatre
+## [](#header-3) Group Members: Sai Phaltankar, Shoaib Khan, Amey Barapatre
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/electricity.jpeg)
 > There's a drop in electricity consumption around 2010.
