@@ -15,6 +15,7 @@ Data is utility usage of a family , some background information:
 ## [](#header-3) Group Members: Sai Phaltankar, Shoaib Khan, Amey Barapatre
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/electricity.png)
+
 > There's a drop in electricity consumption around 2010.
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/water.png)
