@@ -13,6 +13,7 @@ Data is utility usage of a family , some background information:
 * Number of people in the home doesn't change after mid 2000
 
 ## [](#header-3) Group Members: Sai Phaltankar, Shoaib Khan, Amey Barapatre
+>
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/electricity.png)
 
