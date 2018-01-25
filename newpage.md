@@ -14,10 +14,10 @@ Data is utility usage of a family , some background information:
 
 ## [](#header-3) Group Members: Sai Phaltankar, Shoaib Khan, Amey Barapatre
 
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/electricity.jpeg)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/electricity.png)
 > There's a drop in electricity consumption around 2010.
 
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/water.jpeg)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/water.png)
 > There's a spike in the water usage in 2004 due to some situation with a pond and a very dangerous fish.
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
