@@ -19,6 +19,4 @@ Data is utility usage of a family , some background information:
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/water.png)
 > There's a spike in the water usage in 2004 due to some situation with a pond and a very dangerous fish.
-
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg)
 > Theres a drop gas bills but the usage remains the same after 2010.
