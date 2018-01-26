@@ -5,7 +5,7 @@ layout: default
 
 
 
-# [](#header-1)WEEK 2 Class Work
+# [](#header-1)WeeK 2 - Classwork
 Data is utility usage of a family , some background information:
 * Single family house
 * Natural gas for heating and cooking
@@ -22,4 +22,5 @@ Data is utility usage of a family , some background information:
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/water.png)
 
 > There's a spike in the water usage in 2004 due to some situation with a pond and a very dangerous fish.
-> Theres a drop gas bills but the usage remains the same after 2010.
+
+> There's a drop in gas bills after 2010 but the usage remains the same as previous.
