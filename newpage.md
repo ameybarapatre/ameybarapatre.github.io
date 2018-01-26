@@ -5,7 +5,7 @@ layout: default
 
 
 
-# [](#header-1)WeeK 2 - Classwork
+# [](#header-1)Week 2 - Classwork
 Data is utility usage of a family , some background information:
 * Single family house
 * Natural gas for heating and cooking
