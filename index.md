@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## [](#header-2) Week 3 Classwork : Eye Test.
+## [](#header-2) Week 3 Homework : Eye Test.
 <img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/week3.jpg" width="600px" />
 
-## [](#header-2) Week 2 Classwork : EVL Weather App.
+## [](#header-2) Week 2 Homework : EVL Weather App.
 
 [Link to EVL Shiny App](https://ameybarapatre.shinyapps.io/evlWeatherForR/)
 
 
-## [](#header-2) Week 1 Classwork : Weather App.
+## [](#header-2) Week 1 Homework : Weather App.
 
 > Wait, is that a windows phone?. Yes, I still use one . Fortunately there are still a decent amount of weather apps.
 > This one comes as a default and I have stuck with it. Its pretty much standard stuff.
