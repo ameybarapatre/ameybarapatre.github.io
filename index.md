@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## [](#header-2) Week 3 Classwork : Eye Test.
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/week3.jpg =500x)
+<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/week3.jpg" width="500px" />
 
 ## [](#header-2) Week 2 Classwork : EVL Weather App.
 
@@ -22,9 +22,8 @@ layout: default
 
 
 
+<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg" width="200px" /><img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg" width="200px" />
 
-
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss2.jpeg =200x)![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/ss1.jpeg =200x)
 
 
 
