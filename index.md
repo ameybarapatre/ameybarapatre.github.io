@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## [](#header-2) Week 3 Classwork : Eye Test.
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/week3.png)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/week3.jpg)
 
 ## [](#header-2) Week 2 Classwork : EVL Weather App.
 
