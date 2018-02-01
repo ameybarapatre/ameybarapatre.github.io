@@ -10,7 +10,7 @@ layout: default
 [Link to EVL Shiny App](https://ameybarapatre.shinyapps.io/evlWeatherForR/)
 
 
-## [](#header-2) Week 1 Homework : Weather App.
+## [](#header-2) Week 1 : Weather App.
 
 > Wait, is that a windows phone?. Yes, I still use one . Fortunately there are still a decent amount of weather apps.
 > This one comes as a default and I have stuck with it. Its pretty much standard stuff.
