@@ -27,7 +27,7 @@ The data is about the 1854 London cholera outbreak based on data created and com
 
  About the Cholera Attack of 1854 :
 
-<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/Snowm.PNG" width="700px" />
+<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/Snowm.PNG" width="200px" />
 
 >The Broad Street pump had the infected water, because it was right at the center of most deaths.
 >Though it was not the closest pump to their home, they might have drunk water from it when in the area
