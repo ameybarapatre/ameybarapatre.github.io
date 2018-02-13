@@ -34,7 +34,7 @@ The data is about the 1854 London cholera outbreak based on data created and com
  About Cholera in 19th Century:
 
 > As seen from the naples fatality table .Infants arent affected as their diet is mainly breast 
->feeding. Fatality rate increases with age both for men and women
+>feeding. Fatality rate increases at elder age both for men and women
 
  About the Census Data: 
  >Evident that sex ratio was good and life expectancy wasn't from the graphs and the piecharts.
