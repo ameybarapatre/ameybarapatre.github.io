@@ -3,13 +3,13 @@ layout: default
 ---
 ## [](#header-2) How-Tos :
 
-![Click here for the Visulation ](https://ameybarapatre.shinyapps.io/PROJ1/)
+[Click here for the Visulation](https://ameybarapatre.shinyapps.io/PROJ1/)
 
  The sidebar is used to navigate through various visualization. Each Visualization has an appropriate title according to the data it represents. Look below for details on the data. The line graph of the cholera attacks is interactive and allows you to pan zoom and see the data point nearest to the pointer. The tables are also interactive and allow the user to sort the data according to their choice of column. One of the visualizations are the geographical mappings of number of fatalaties in the 1851 cholera out break. The map widgets show the original John Snow's map and the modern day map. Clicking on any of the circles on the maps shows a popup of number of fatalities that it represents. Click multiple times to rotate through the popups of the overlapping circles.
 
 ## [](#header-2) About the Data:
 
-The data is about the 1854 London cholera outbreak based on data created and compiled by Robin Wilson .I also use fatality numbers for men and women in different age groups from cholera in the same time period in naples and the UK census data for 1851 to have a base line for analysis. The locations of fatalities and pumps from Robin Wilson's data were used to georeference John Snows map by using the QGIS tools. Refer ![](http://walkerke.github.io/2015/03/custom_tiles/) and QGIS documentation for details. 
+The data is about the 1854 London cholera outbreak based on data created and compiled by Robin Wilson .I also use fatality numbers for men and women in different age groups from cholera in the same time period in naples and the UK census data for 1851 to have a base line for analysis. The locations of fatalities and pumps from Robin Wilson's data were used to georeference John Snows map by using the QGIS tools. Refer [WALKERKE](http://walkerke.github.io/2015/03/custom_tiles/) and QGIS documentation for details. 
 
 ## [](#header-2) Steps to Deployment:
 
