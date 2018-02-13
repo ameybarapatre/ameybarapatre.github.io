@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
-## [](#header-2) How-Tos :
+## [](#header-2) Don't Go Near The Water : 
+> Scroll to See More.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_6CAs678Us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+## [](#header-2) How-Tos :
+
+
 [Click here for the Visualization](https://ameybarapatre.shinyapps.io/Dontgonearthewater/)
 
  The sidebar is used to navigate through various visualization. Each Visualization has an appropriate title according to the data it represents. Look below for details on the data. The line graph of the cholera attacks is interactive and allows you to pan zoom and see the data point nearest to the pointer. The tables are also interactive and allow the user to sort the data according to their choice of column. One of the visualizations are the geographical mappings of number of fatalaties in the 1851 cholera out break. The map widgets show the original John Snow's map and the modern day map. Clicking on any of the circles on the maps shows a popup of number of fatalities that it represents. Click multiple times to rotate through the popups of the overlapping circles.
