@@ -6,7 +6,7 @@ layout: default
 
 >Amey Barapatre , Yang Hao , Jake Arcivar.
 
-Group Favourite : Amey Barapatre -[Link to Shiny App](https://ameybarapatre.github.io/project1.html)
+Group Favourite : Amey Barapatre - [Link to Shiny App](https://ameybarapatre.github.io/project1.html)
 ## [](#header-4) Yang Hao : 
 
 [Link to Shiny App](http://yhao5.people.uic.edu/cs424/hm01_1)
