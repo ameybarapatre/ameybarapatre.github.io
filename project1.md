@@ -5,7 +5,7 @@ layout: default
 > Scroll to See More.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_6CAs678Us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</br>
+<br>
 
 ## [](#header-2) How-Tos :
 
