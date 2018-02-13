@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## [](#header-3) Project Report:
+## [](#header-2) Project Report:
 
 >Amey Barapatre , Yang Hao , Jake Arcivar.
 
 Group Favourite : Amey Barapatre -[Link to Shiny App](https://ameybarapatre.github.io/project1.html)
-## [](#header-2) Yang Hao : 
+## [](#header-4) Yang Hao : 
 
 [Link to Shiny App](http://yhao5.people.uic.edu/cs424/hm01_1)
 
@@ -22,7 +22,7 @@ What We didn't like:
 > 2. Map is not accurate.
 > 3. Arrangement of the charts on the page.
 
-## [](#header-2) Jake Arcivar : 
+## [](#header-4) Jake Arcivar : 
 
 [Link to Shiny App](https://sites.google.com/a/uic.edu/jakearcivarcs424/)
 
@@ -36,7 +36,7 @@ What We didn't like:
 > 3. The map looks crowded.
 > 4. Uk Census Pie chart in probably wrong
 
-## [](#header-2) Amey Barapatre : 
+## [](#header-4) Amey Barapatre : 
 
 [Link to Shiny App](https://ameybarapatre.github.io/project1.html)
 
