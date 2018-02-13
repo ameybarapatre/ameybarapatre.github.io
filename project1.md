@@ -18,7 +18,7 @@ layout: default
 
 ## [](#header-2) About the Data:
 
-The data is about the 1854 London cholera outbreak based on data created and compiled by Robin Wilson .I also use fatality numbers for men and women in different age groups from cholera in the same time period in naples and the UK census data for 1851 to have a base line for analysis. The data about Naples in the Time of Cholera 1884-1911 Number of deaths per 10,000 inhabitants of that age group is from Cambridge University.The locations of fatalities and pumps from Robin Wilson's data were used to georeference John Snows map by using the QGIS tools. Refer [WALKERKE](http://walkerke.github.io/2015/03/custom_tiles/) and QGIS documentation for details. 
+The data is about the 1854 London cholera outbreak based on data created and compiled by Robin Wilson .I also use  number of deaths per 10,000 inhabitants for men and women in different age groups from cholera in the same time period in naples and the UK census data for 1851 to have a base line for analysis. The data about Naples in the Time of Cholera 1884-1911 is from Cambridge University.The locations of fatalities and pumps from Robin Wilson's data were used to georeference John Snows map by using the QGIS tools. Refer [WALKERKE](http://walkerke.github.io/2015/03/custom_tiles/) and QGIS documentation for details. 
 
 ## [](#header-2) Steps to Deployment:
 
