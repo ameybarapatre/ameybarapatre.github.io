@@ -7,7 +7,7 @@ layout: default
 
  The sidebar is used to navigate through various visualization. Each Visualization has an appropriate title according to the data it represents. Look below for details on the data. The line graph of the cholera attacks is interactive and allows you to pan zoom and see the data point nearest to the pointer. The tables are also interactive and allow the user to sort the data according to their choice of column. One of the visualizations are the geographical mappings of number of fatalaties in the 1851 cholera out break. The map widgets show the original John Snow's map and the modern day map. Clicking on any of the circles on the maps shows a popup of number of fatalities that it represents. Click multiple times to rotate through the popups of the overlapping circles.
 
-<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/sidebar.PNG" width="700px" />
+<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/sidebar.PNG" width="200px" />
 
 ## [](#header-2) About the Data:
 
@@ -27,7 +27,7 @@ The data is about the 1854 London cholera outbreak based on data created and com
 
  About the Cholera Attack of 1854 :
 
-<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/Snowm.PNG" width="200px" />
+<img src = "https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/Snowm.PNG" width="700px" />
 
 >The Broad Street pump had the infected water, because it was right at the center of most deaths.
 >Though it was not the closest pump to their home, they might have drunk water from it when in the area
