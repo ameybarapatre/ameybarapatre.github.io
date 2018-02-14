@@ -34,7 +34,7 @@ What We didn't like:
 > 1. Scrolling.
 > 2. Un readably long numbers or scientific notations based numbers.
 > 3. The map looks crowded.
-> 4. Uk Census Pie chart in probably wrong
+> 4. Uk Census Pie chart is probably wrong.
 
 ## [](#header-4) Amey Barapatre : 
 
