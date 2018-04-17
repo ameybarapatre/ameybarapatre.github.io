@@ -11,7 +11,7 @@ This visualization by the Washington Post wants its reader's to question if ther
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/child-1.PNG)
 
-The visualization encodes the data for two categories viz. victims under 18 and above 18 with colors. Children are highlighted with the same color the text has been higlighted. This quickly shows that there have been more adult victims than children.Hovering on the victim shows all the other victims of the incident.
+The visualization encodes the data for two categories viz. victims under 18 and above 18 with colors. Children are highlighted with the same color the text has been higlighted. This quickly shows that there have been more adult victims than children. Hovering on the victim shows all the other victims of the incident.
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/popups-7.PNG)
 
@@ -23,7 +23,7 @@ Clicking on the victim shows the details of the shooting, the sub heading of thi
 These silhouttes through out the visualization are ordered in chronologically bottom to top which is a good feature.But, the distribution of the silhouttes involved in the same shooting makes it hard to keep track when you take the pointer off the silhoutte. 
 
 
-##  [](#header-2) Gun's Silhouttes:
+##  [](#header-2) Guns Silhouttes:
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/guns-3.PNG)
 
