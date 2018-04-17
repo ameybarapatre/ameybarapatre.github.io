@@ -76,11 +76,3 @@ Additional sources: Violence Policy Center, Gun Violence Archive; FBI 2014 Study
 
 
 
-Gun Violence 
-Good Features
-Things that could be done better
-What is the data
-how was is it collected
-Users
-what questions to ask
-how can they find answers
