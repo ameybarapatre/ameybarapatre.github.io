@@ -41,7 +41,7 @@ The stastistic that could be a part of this visualization is the total number vi
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/shooters-4.PNG)
 
-This visualization follows suit with the popups , the coloring indicated if the shooter died in the incident. There are no conclusive findings apparent from this visualization. Making the point that there are no specific traits  to any shooter other than the fact that almost all of them are male. A deeper perspective is required to make comments in the regards of the gender of the shooter.
+This visualization follows suit with the popups , the coloring indicates if the shooter died in the incident. There are no conclusive findings apparent from this visualization. Making the point that there are no specific traits  to any shooter other than the fact that almost all of them are male. A deeper perspective is required to make comments in regards of the gender of the shooter.
 
 ## [](#header-2) The Timeline:
 
