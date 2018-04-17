@@ -1,6 +1,8 @@
 --
 layout: default
 ---
+## [](#header-1) Mass Shootings : The terrible numbers that grow with each mass shooting
+
 
 Gun violence has been a much debated topic in the United States for this decade mostly because of the mass shootings. Although they make up for a small portion of the gun related violence it garners the most attention as the victims are randomly targeted at the most mundane of places. Schools were thought to be the least likeliest of these places,  but in 1999 it all changed , the seige by two seniors at Columbine High School in Colorado became a turning point after which school shootings could no longer be considered unthinkable aberrations. After a confused response that played out over several hours while a wounded teacher bled to death, U.S. law enforcement agencies overhauled procedures and officer training to create protocols for stopping “active shooters". 
 
@@ -59,7 +61,7 @@ The map doesn't have popups but information for the incident shows up on hover. 
 
 
 
-### [](#header-2) Data:
+## [](#header-3) Data:
 
 
 This data is compiled from Mother Jones; Grant Duwe, author of “Mass Murder in the United States: A History,” and Washington Post research. It starts from Aug. 1, 1966 and goes through 2018. The article chooses a narrow definition of mass shooting considering the ones with 4 or more victims.
