@@ -9,7 +9,7 @@ layout: default
 <br/>
 Gun violence has been a much debated topic in the United States for this decade mostly because of the mass shootings. Although they make up for a small portion of the gun related violence it garners the most attention as the victims are randomly targeted at the most mundane of places. Schools were thought to be the least likeliest of these places,  but in 1999 it all changed , the seige by two seniors at Columbine High School in Colorado became a turning point after which school shootings could no longer be considered unthinkable aberrations. After a confused response that played out over several hours while a wounded teacher bled to death, U.S. law enforcement agencies overhauled procedures and officer training to create protocols for stopping “active shooters". 
 
-This [visualization](https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/?utm_term=.1edd33106187) by the Washington Post wants its reader's to question if theres a bigger pattern with mass shootings, just the school shootings that are the deadliest ? is it the most targeted place? is it a gun control problem?. 
+This [visualization](https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/?utm_term=.1edd33106187) by the Washington Post wants its readers to question if theres a bigger pattern with mass shootings, just the school shootings that are the deadliest ? is it the most targeted place? is it a gun control problem?. 
 
 
 ## [](#header-2) Victim's Silhouttes:
