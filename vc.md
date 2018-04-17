@@ -1,4 +1,4 @@
---
+---
 layout: default
 ---
 ## [](#header-1) Mass Shootings : The terrible numbers that grow with each mass shooting
