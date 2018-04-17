@@ -25,14 +25,14 @@ Clicking on the victim shows the details of the shooting, the sub heading of thi
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/2-temporal.PNG)
 
-These silhouttes through out the visualization are ordered in chronologically bottom to top which is a good feature.But, the distribution of the silhouttes involved in the same shooting makes it hard to keep track when you take the pointer off the silhoutte. 
+These silhouttes through out the visualization are ordered  chronologically bottom to top which is a good feature.But, the distribution of the silhouttes involved in the same shooting makes it hard to keep track when you take the pointer off the silhoutte. 
 
 
 ##  [](#header-2) Guns Silhouttes:
 
 ![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/guns-3.PNG)
 
-THe guns have also been encoded according the highlights on the texts, illegally obtained, legally obtained and unclear origins. Also, where the gun type is unknown it is marked with a questionmark. The reason for this specific categorization shows that the amount of legally obtained guns is much larger than the illegally obtained ones.  The popups and the hovering features continue with the gun silhouttes. The interesting thing that comes out of the visualization is that the number of hand guns used is signifincantly more than the semi-automatic or automatic rifles. Which draws the question is it sufficient to just put stricter laws on bigger guns. Although I concede that it will be a good starting point.
+The guns have also been encoded according the highlights on the texts, illegally obtained, legally obtained and unclear origins. Also, where the gun type is unknown it is marked with a questionmark. The reason for this specific categorization shows that the amount of legally obtained guns is much larger than the illegally obtained ones.  The popups and the hovering features continue with the gun silhouttes. The interesting thing that comes out of the visualization is that the number of hand guns used is significantly more than the semi-automatic or automatic rifles. Which draws the question is it sufficient to just put stricter laws on bigger guns. Although I concede that it will be a good starting point.
 
 The stastistic that could be a part of this visualization is the total number victims associated with each type of gun which would make it clear which weapon is more deadly.
 
