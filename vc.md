@@ -45,7 +45,7 @@ This visualization follows suit with the popups , the coloring indicates if the 
 
 ## [](#header-2) The Timeline:
 
-![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/timeline-5.PNG)
+![](https://raw.githubusercontent.com/ameybarapatre/ameybarapatre.github.io/master/timeline-5.png)
 
 This visualization makes the frequency and deadliness of the shootings clear from a temporal perspective. Showing how the shootings have been increasing in the past decade and have been getting deadlier with time. Smaller patches, of high frequency of shootings coincide with tougher times like the increase in unemployment rate in early 90s. A bigger causality/correlation is pointed out in the article.
 
